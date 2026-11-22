@@ -1,5 +1,5 @@
 # textbook-ocr-gemini
-```python
+
 import streamlit as st
 import pytesseract
 import cv2
